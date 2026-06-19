@@ -1,0 +1,47 @@
+body {
+background-color: #f4f6f9;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+font-weight: bold;
+color: #212529;
+}
+
+.navbar {
+box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+border: none;
+transition: 0.3s;
+border-radius: 12px;
+}
+
+.card:hover {
+transform: translateY(-5px);
+}
+
+.card-body {
+padding: 25px;
+}
+
+.btn-primary {
+width: 100%;
+}
+
+footer {
+margin-top: 50px;
+}
+
+section {
+margin-top: 20px;
+}
+
+a {
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
